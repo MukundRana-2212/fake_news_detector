@@ -1,0 +1,5 @@
+__pycache__/
+fakenews_xlmr.zip
+fakenews_xlmr/
+out/
+.gradio/
